@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Telegram Profile</string>
+    <string name="the_chance">The chance</string>
+    <string name="public_channel">public channel</string>
+    <string name="info">Info</string>
+    <string name="invite_link">Invite Link</string>
+    <string name="notifications">Notifications</string>
+    <string name="on">On</string>
+    <string name="t_me_thechance101">t.me/theChance101</string>
+</resources>
